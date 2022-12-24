@@ -1,2 +1,2 @@
-# Pyhton project
-this project includes the different python organized in different branches.
+# GUI to work with dad
+This GUI allows to retreive selected data, plot it and, if desired, export it to csv format.
