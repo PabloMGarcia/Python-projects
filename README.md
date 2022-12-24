@@ -1,2 +1,2 @@
 # Python-projects
-Repository to manage Ptyhon project
+Simple project to create the classic Hello World!
